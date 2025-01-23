@@ -3,9 +3,23 @@
 }
 
 body {
-    text-align: center; /* Centers the text */
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    margin: 0; 
+    font-family: Arial, sans-serif; 
 }
 
-.centered-text {
-    font-size: 24px; /* Adjusts the font size */
+.container {
+    text-align: center; 
 }
+
+h1 {
+    font-size: 36px; 
+}
+
+p {
+    font-size: 24px;    
+}
+
