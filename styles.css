@@ -1,3 +1,11 @@
 *{
     background-image: url("https://media.tenor.com/KavktwzqBOAAAAAe/lebron-james-lebron.png");
 }
+
+body {
+    text-align: center; /* Centers the text */
+}
+
+.centered-text {
+    font-size: 24px; /* Adjusts the font size */
+}
